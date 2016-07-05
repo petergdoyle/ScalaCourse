@@ -1,0 +1,16 @@
+build
+
+.vagrant
+.metadata
+
+*.out
+*.err
+*.gz
+*.tar
+.DS_Store
+*.*~
+.idea/
+*.csv
+*.txt
+*.data
+*.zip
